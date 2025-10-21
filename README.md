@@ -10,4 +10,4 @@ Controlling the image is simple as well, creating a loop where it checks for you
 It has been tested to only use 20 MB/s in total (including the windows forms window itself and microsoft's runtime).
 
 _Feel free to improve on this if you like it! Just make sure to link the original that I made here!_
-_As stated before, this was a fun project that I did for myself and as a show of.. understanding. If anything's wrong, you're free to do what you want with it._
+_As stated before, this was a fun project that I did for myself and as a show of understanding. If anything's wrong, you're free to do what you want with it._
